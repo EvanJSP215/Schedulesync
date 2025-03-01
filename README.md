@@ -1,6 +1,6 @@
 # <img src="Asset/sync_logo.png" width="60" />ScheduleSync
 
-Welcome to **Schedule Synce**, a small-business oriented client management and organization system. (Due to privacy and sensitive data concerns, only the frontend of this project will be pushed). 
+Welcome to **Schedule Sync**, a small-business oriented client management and organization system. (Due to privacy and sensitive data concerns, only the frontend of this project will be pushed). 
 
 If a Demo is required, please let me know in advance!
 
